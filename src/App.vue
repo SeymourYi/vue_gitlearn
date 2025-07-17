@@ -2,6 +2,7 @@
      <!-- <HelloWorld  msg="213"/> -->
   <Format />
    <!-- <SingleMap /> -->
+    test
 </template>
 
 <script setup lang="ts">
